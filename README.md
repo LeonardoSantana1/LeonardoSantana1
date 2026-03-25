@@ -96,7 +96,15 @@
 
 ### 📊 Estatísticas
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSantana1&show_icons=true&theme=tokyonight&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSantana1&layout=compact&theme=tokyonight&locale=pt-br&card_width=350" />
-</div>
+<p align="left">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSantana1&show_icons=true&theme=tokyonight&locale=pt-br" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSantana1&layout=compact&theme=tokyonight&locale=pt-br&card_width=400" />
+      </td>
+    </tr>
+  </table>
+</p>
