@@ -96,15 +96,20 @@
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSantana1&show_icons=true&theme=tokyonight&locale=pt-br" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSantana1&layout=compact&theme=tokyonight&locale=pt-br&card_width=400" />
-      </td>
-    </tr>
-  </table>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=LeonardoSantana1&show_icons=true&theme=tokyonight&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSantana1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
